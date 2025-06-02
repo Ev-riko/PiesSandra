@@ -1,0 +1,15 @@
+﻿@model Product
+<div class="row">
+    <div class="card" style="width: 18rem;">
+        <img src="@Model.ImagePath" class="card-img-top" alt="https://cdn-icons-png.flaticon.com/512/2646/2646898.png">
+        <div class="card-body">
+            <h5 class="card-title">@Model.Name</h5>
+            <p class="card-text">@Model.Description</p>
+            <div class="d-grid gap-2 d-md-block">
+                <a href="/Home/Index" class="btn btn-primary">Назад к покупкам</a>
+                <a href="/cart/add?id=@Model.Id" class="btn btn-primary">@Model.Сost</a>
+                <a href="/compare/add?id=@Model.Id" class="btn btn-primary">Add to comparison</a>
+            </div>
+        </div>
+    </div>
+</div>

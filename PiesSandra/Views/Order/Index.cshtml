@@ -1,0 +1,27 @@
+﻿<form action="/" method="post">
+    <div class="row">
+        <div class="col-12">
+            <div class="mb-3">
+                <label for="nameFormControl" class="form-label">Name</label>
+                <input type="text" name="name" class="form-control" id="nameFormControl" placeholder="Erik">
+            </div>
+            <div class="mb-3">
+                <label for="emailFormControl" class="form-label">Email address</label>
+                <input type="email" name="email" class="form-control" id="emailFormControl" placeholder="name@example.com">
+            </div>
+            <div class="mb-3">
+                <label for="phoneFormControl" class="form-label">Phone number</label>
+                <input type="tel" name="phone" class="form-control" id="phoneFormControl" placeholder="+7 (999) 999-99-99">
+            </div>
+            <div class="mb-3">
+                <label for="deliveryAddressFormControl" class="form-label">Delivery Address</label>
+                <input class="form-control" name="address" id="deliveryAddressFormControl">
+            </div>
+            <button class="col-md-6 btn btn-success" type="submit" asp-controller="Order" asp-action="Confirm">
+                Confirm Order
+            </button>
+
+        </div>
+    </div>
+</form>
+<a class="col-md-6 btn btn-primary" href="/Home/Index"> Continue shopping </a>

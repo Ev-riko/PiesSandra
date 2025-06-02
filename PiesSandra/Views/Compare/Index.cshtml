@@ -1,0 +1,63 @@
+﻿@model Comparison
+
+@if (Model == null)
+{
+    <h3>Compare is empty</h3>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                @foreach (var compareItem in Model.ComparisonItems)
+                {
+                    <th scope="col">@compareItem.Product.Name</th>
+                    
+                }
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                @foreach (var compareItem in Model.ComparisonItems)
+                {
+                    <td>
+                        <a href="/compare/remove?id=@compareItem.Product.Id" class="btn btn-primary">Remove from comparison</a>
+                    </td>
+                }
+            </tr>
+            <tr>
+                @foreach (var compareItem in Model.ComparisonItems)
+                {
+                    <td>
+                        <img src="@compareItem.Product.ImagePath" class="img-fluid rounded-start" alt="#">
+                    </td>
+                }
+            </tr>
+            <tr>
+            </tr>
+            <tr>
+                @foreach (var compareItem in Model.ComparisonItems)
+                {
+                    <td>
+                        @compareItem.Product.Description
+                    </td>
+                }
+            </tr>
+            <tr>
+                @foreach (var compareItem in Model.ComparisonItems)
+                {
+                    <td>
+                        @compareItem.Product.Сost
+                    </td>
+                }
+            </tr>
+        </tbody>
+    </table>
+    <div class="row">
+        <a class="btn btn-primary" href="/Home/Index"> Продолжить покупки </a>
+    </div>
+}
+
+
+
+

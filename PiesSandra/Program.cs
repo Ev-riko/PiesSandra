@@ -1,6 +1,13 @@
+using PiesSandra;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddSingleton<IProductRepository, ProductsInMemoryRepository>();
+builder.Services.AddSingleton<ICartRepository, CartsInMemoryRepository>();
+builder.Services.AddSingleton<IComparisonRepository, ComparisonsInMemoryRepository>();
+builder.Services.AddSingleton<IOrderRepository, OrdersInMemoryRepository>();
+
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();

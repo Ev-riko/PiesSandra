@@ -1,0 +1,52 @@
+﻿@model Cart
+
+@if (Model == null || Model.CartItems.Count == 0)
+{
+    <h3>Cart is empty</h3>
+}
+else
+{
+    
+    <div class="row">
+        <div class="col-md-9">
+            @foreach (var cartItem in Model.CartItems)
+            {
+                <div class="row position-relative">
+                    <div class="col-md-4">
+                        <img src="@cartItem.Product.ImagePath" class="img-fluid rounded-start" alt="#">
+                    </div>
+                    <div class="col-md-6">
+                        <div class="card-body">
+                            <a href="/Product/Index/@cartItem.Product.Id">
+                                <h5 class="card-title">@cartItem.Product.Name</h5>
+                            </a>
+                            <p class="card-text">@cartItem.Product.Description</p>
+                            
+                            
+                        </div>
+                    </div>
+                    <div class="col-md-2 position-absolute bottom-0 end-0">
+                        <h3 class="card-text text-danger"><strong>@cartItem.TotalCost rub</strong></h3>
+                        <div class="btn-group" role="group" aria-label="Basic example">
+                            <a href="/cart/remove?id=@cartItem.Product.Id" class="btn btn-primary">-</a>
+                            <div class="input-group-text">@cartItem.Amount</div>
+                            <a href="/cart/add?id=@cartItem.Product.Id" class="btn btn-primary">+</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+        <div class="col-md-3">
+            <h1 class="card-title">@Model.TotalCost rub</h1>
+            <a class="col-md-6 btn btn-success" href="/Order/Index"> Confirm Order </a>
+            <a class="col-md-6 btn btn-primary" href="/Home/Index"> Continue shopping </a>
+            <a class="col-md-6 btn btn-danger" href="/cart/clear"> Clear cart </a>
+        </div>
+        
+    </div>
+
+}
+
+
+
+

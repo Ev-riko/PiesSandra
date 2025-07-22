@@ -9,7 +9,15 @@
         {
             get
             {
-                return CartItems.Select(x => x.TotalCost).Sum();
+                return CartItems?.Select(x => x.TotalCost).Sum() ?? 0;
+            }
+        }
+
+        public decimal Amount
+        {
+            get
+            {
+                return CartItems?.Sum(x => x.Amount) ?? 0;
             }
         }
     }

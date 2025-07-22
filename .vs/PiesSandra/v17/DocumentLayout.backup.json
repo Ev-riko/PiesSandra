@@ -3,8 +3,88 @@
   "WorkspaceRootPath": "D:\\Projects\\ASPNET\\PiesSandra\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|d:\\projects\\aspnet\\piessandra\\piessandra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|solutionrelative:piessandra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|d:\\projects\\aspnet\\piessandra\\piessandra\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|solutionrelative:piessandra\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|d:\\projects\\aspnet\\piessandra\\piessandra\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|solutionrelative:piessandra\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|d:\\projects\\aspnet\\piessandra\\piessandra\\controllers\\authorizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|solutionrelative:piessandra\\controllers\\authorizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|d:\\projects\\aspnet\\piessandra\\piessandra\\views\\admin\\adminleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|solutionrelative:piessandra\\views\\admin\\adminleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|d:\\projects\\aspnet\\piessandra\\piessandra\\views\\admin\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|solutionrelative:piessandra\\views\\admin\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|d:\\projects\\aspnet\\piessandra\\piessandra\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|solutionrelative:piessandra\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|d:\\projects\\aspnet\\piessandra\\piessandra\\views\\admin\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|solutionrelative:piessandra\\views\\admin\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|d:\\projects\\aspnet\\piessandra\\piessandra\\views\\admin\\roles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|solutionrelative:piessandra\\views\\admin\\roles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|d:\\projects\\aspnet\\piessandra\\piessandra\\views\\admin\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|solutionrelative:piessandra\\views\\admin\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|d:\\projects\\aspnet\\piessandra\\piessandra\\views\\authorization\\singup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|solutionrelative:piessandra\\views\\authorization\\singup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|d:\\projects\\aspnet\\piessandra\\piessandra\\views\\authorization\\singin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|solutionrelative:piessandra\\views\\authorization\\singin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|d:\\projects\\aspnet\\piessandra\\piessandra\\views\\authorization\\confirmsingup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|solutionrelative:piessandra\\views\\authorization\\confirmsingup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|d:\\projects\\aspnet\\piessandra\\piessandra\\views\\authorization\\confirmsingin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|solutionrelative:piessandra\\views\\authorization\\confirmsingin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|d:\\projects\\aspnet\\piessandra\\piessandra\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|solutionrelative:piessandra\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|d:\\projects\\aspnet\\piessandra\\piessandra\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|solutionrelative:piessandra\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|d:\\projects\\aspnet\\piessandra\\piessandra\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|solutionrelative:piessandra\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|d:\\projects\\aspnet\\piessandra\\piessandra\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|solutionrelative:piessandra\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|d:\\projects\\aspnet\\piessandra\\piessandra\\views\\shared\\components\\cart\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|solutionrelative:piessandra\\views\\shared\\components\\cart\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|d:\\projects\\aspnet\\piessandra\\piessandra\\views\\shared\\components\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|solutionrelative:piessandra\\views\\shared\\components\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|d:\\projects\\aspnet\\piessandra\\piessandra\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|solutionrelative:piessandra\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|d:\\projects\\aspnet\\piessandra\\piessandra\\ordersinmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FC844A-4A0A-4AC8-8FFA-4D7AA5F499F0}|PiesSandra\\PiesSandra.csproj|solutionrelative:piessandra\\ordersinmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +102,279 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Program.cs",
-              "RelativeDocumentMoniker": "PiesSandra\\Program.cs",
-              "ToolTip": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Program.cs",
-              "RelativeToolTip": "PiesSandra\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "PiesSandra\\Models\\Order.cs",
+              "ToolTip": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Models\\Order.cs",
+              "RelativeToolTip": "PiesSandra\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T18:21:29.605Z",
+              "WhenOpened": "2025-07-22T15:59:50.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SingIn.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Views\\Authorization\\SingIn.cshtml",
+              "RelativeDocumentMoniker": "PiesSandra\\Views\\Authorization\\SingIn.cshtml",
+              "ToolTip": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Views\\Authorization\\SingIn.cshtml",
+              "RelativeToolTip": "PiesSandra\\Views\\Authorization\\SingIn.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T14:03:54.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrdersInMemoryRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\OrdersInMemoryRepository.cs",
+              "RelativeDocumentMoniker": "PiesSandra\\OrdersInMemoryRepository.cs",
+              "ToolTip": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\OrdersInMemoryRepository.cs",
+              "RelativeToolTip": "PiesSandra\\OrdersInMemoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T13:51:43.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Views\\Shared\\Components\\Cart\\Cart.cshtml",
+              "RelativeDocumentMoniker": "PiesSandra\\Views\\Shared\\Components\\Cart\\Cart.cshtml",
+              "ToolTip": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Views\\Shared\\Components\\Cart\\Cart.cshtml",
+              "RelativeToolTip": "PiesSandra\\Views\\Shared\\Components\\Cart\\Cart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T15:49:40.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CartViewComponent.cs",
+              "DocumentMoniker": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Views\\Shared\\Components\\Cart\\CartViewComponent.cs",
+              "RelativeDocumentMoniker": "PiesSandra\\Views\\Shared\\Components\\Cart\\CartViewComponent.cs",
+              "ToolTip": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Views\\Shared\\Components\\Cart\\CartViewComponent.cs",
+              "RelativeToolTip": "PiesSandra\\Views\\Shared\\Components\\Cart\\CartViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T15:47:16.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Header.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Views\\Shared\\Header.cshtml",
+              "RelativeDocumentMoniker": "PiesSandra\\Views\\Shared\\Header.cshtml",
+              "ToolTip": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Views\\Shared\\Header.cshtml",
+              "RelativeToolTip": "PiesSandra\\Views\\Shared\\Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T15:40:39.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Views\\Admin\\Orders.cshtml",
+              "RelativeDocumentMoniker": "PiesSandra\\Views\\Admin\\Orders.cshtml",
+              "ToolTip": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Views\\Admin\\Orders.cshtml",
+              "RelativeToolTip": "PiesSandra\\Views\\Admin\\Orders.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T15:07:28.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConfirmSingIn.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Views\\Authorization\\ConfirmSingIn.cshtml",
+              "RelativeDocumentMoniker": "PiesSandra\\Views\\Authorization\\ConfirmSingIn.cshtml",
+              "ToolTip": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Views\\Authorization\\ConfirmSingIn.cshtml",
+              "RelativeToolTip": "PiesSandra\\Views\\Authorization\\ConfirmSingIn.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T14:39:01.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "PiesSandra\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "PiesSandra\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:12:52.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorizationController.cs",
+              "DocumentMoniker": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Controllers\\AuthorizationController.cs",
+              "RelativeDocumentMoniker": "PiesSandra\\Controllers\\AuthorizationController.cs",
+              "ToolTip": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Controllers\\AuthorizationController.cs",
+              "RelativeToolTip": "PiesSandra\\Controllers\\AuthorizationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T14:26:33.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Roles.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Views\\Admin\\Roles.cshtml",
+              "RelativeDocumentMoniker": "PiesSandra\\Views\\Admin\\Roles.cshtml",
+              "ToolTip": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Views\\Admin\\Roles.cshtml",
+              "RelativeToolTip": "PiesSandra\\Views\\Admin\\Roles.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T16:24:02.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PiesSandra\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PiesSandra\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T15:03:07.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminLeftMenu.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Views\\Admin\\AdminLeftMenu.cshtml",
+              "RelativeDocumentMoniker": "PiesSandra\\Views\\Admin\\AdminLeftMenu.cshtml",
+              "ToolTip": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Views\\Admin\\AdminLeftMenu.cshtml",
+              "RelativeToolTip": "PiesSandra\\Views\\Admin\\AdminLeftMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T16:21:52.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Views\\Admin\\Users.cshtml",
+              "RelativeDocumentMoniker": "PiesSandra\\Views\\Admin\\Users.cshtml",
+              "ToolTip": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Views\\Admin\\Users.cshtml",
+              "RelativeToolTip": "PiesSandra\\Views\\Admin\\Users.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T16:23:45.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Views\\Admin\\Products.cshtml",
+              "RelativeDocumentMoniker": "PiesSandra\\Views\\Admin\\Products.cshtml",
+              "ToolTip": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Views\\Admin\\Products.cshtml",
+              "RelativeToolTip": "PiesSandra\\Views\\Admin\\Products.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T16:24:53.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConfirmSingUp.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Views\\Authorization\\ConfirmSingUp.cshtml",
+              "RelativeDocumentMoniker": "PiesSandra\\Views\\Authorization\\ConfirmSingUp.cshtml",
+              "ToolTip": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Views\\Authorization\\ConfirmSingUp.cshtml",
+              "RelativeToolTip": "PiesSandra\\Views\\Authorization\\ConfirmSingUp.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T15:00:30.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SingUp.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Views\\Authorization\\SingUp.cshtml",
+              "RelativeDocumentMoniker": "PiesSandra\\Views\\Authorization\\SingUp.cshtml",
+              "ToolTip": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Views\\Authorization\\SingUp.cshtml",
+              "RelativeToolTip": "PiesSandra\\Views\\Authorization\\SingUp.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T14:54:15.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PiesSandra\\Models\\User.cs",
+              "ToolTip": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Models\\User.cs",
+              "RelativeToolTip": "PiesSandra\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T14:34:48.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "PiesSandra\\Models\\Cart.cs",
+              "ToolTip": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Models\\Cart.cs",
+              "RelativeToolTip": "PiesSandra\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T15:43:35.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "PiesSandra\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "PiesSandra\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T14:27:10.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PiesSandra\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Projects\\ASPNET\\PiesSandra\\PiesSandra\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PiesSandra\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T15:41:59.427Z",
               "EditorCaption": ""
             }
           ]

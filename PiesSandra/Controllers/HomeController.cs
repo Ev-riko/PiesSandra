@@ -9,15 +9,18 @@ namespace PiesSandra.Controllers
         private readonly ILogger<HomeController> _logger;
 
         private readonly IProductRepository productRepository;
+        private readonly ICartRepository cartRepository;
 
-        public HomeController(ILogger<HomeController> logger, IProductRepository productRepository)
+        public HomeController(ILogger<HomeController> logger, IProductRepository productRepository, ICartRepository cartRepository)
         {
             _logger = logger;
             this.productRepository = productRepository;
+            this.cartRepository = cartRepository;
         }
 
         public IActionResult Index()
         {
+            
             var products = productRepository.GetAll();
             return View((object)products);
         }
